@@ -1,10 +1,20 @@
-Scannotation 4.0.1
-└── 260521
+Scannotation 4.0.4
+└── 260602
+    ├── README.md
     ├── requirements.txt
+    ├── updates_v4.0.4.txt
+    ├── logs
+    │   ├── run.log
+    │   ├── error.log
+    ├── tests
+    │   ├── test_library.py
+    │   ├── test_screening.py
+    │   ├── test_qaqc.py
     ├── data
     │   ├── db
-    │   │   └── db_scannotation.db
+    │   │   ├── db_scannotation.db
     │   ├── json
+    │   │   ├── cid_idtfs_previous_process.json
     │   │   ├── formula_parser.json
     │   │   ├── qaqc_gui_label_tooltip.json
     │   │   └── qaqc_gui_param_values.json
@@ -13,6 +23,7 @@ Scannotation 4.0.1
     │   ├── pictures
     │   │   ├── icon_success_32-32px.png
     │   │   ├── icon_youtube_512-512px.png
+    │   │   ├── logo_chemining_infos_214-86px.png
     │   │   ├── logo_scannotation_blue_icon_26-28px.png
     │   │   ├── logo_scannotation_homepage_3840-1369px.jpg
     │   │   ├── logo_scannotation_infos_214-74px.jpg
@@ -27,15 +38,12 @@ Scannotation 4.0.1
     │           ├── Scannotation_MS-DIAL dataset template.xlsx
     │           ├── Scannotation_MZmine dataset template.xlsx
     │           ├── Scannotation_MarkerView dataset template.xlsx
+    │           ├── Scannotation_MetaboScape dataset template.xlsx
     │           ├── Scannotation_RtExp replicates template.xlsx
     │           ├── Scannotation_XCMS dataset template.xlsx
     │           └── Scannotation_library template.xlsx
     └── src
-        ├── .vscode
-        │   ├── launch.json
-        │   └── settings.json
         └── scannotation
-            ├── .env
             ├── __init__.py
             ├── config.py
             ├── constants.py
