@@ -1,10 +1,10 @@
 ![Scannotation](Scannotation-logo.jpg)\
 Scannotation is an automated and user-friendly suspect screening tool for the rapid pre-annotation of LC-HRMS datasets.\
-This software is composed of three processes: Library, Screening and QA/QC generator.
-> ### ➤&nbsp;&nbsp;Library and Screening processes:
-> These processes combine several MS1 chemical predictors: m/z, retention times, isotopic patterns and neutral loss patterns, to score the proximity between features and suspects, thus efficiently prioritizing compounds of interest.
+This software is organized around three main modules: Library, Screening and QA/QC generator.
+> ### ➤&nbsp;&nbsp;Library and Screening modules:
+> These modules combine several MS1 chemical predictors: m/z, retention times, isotopic patterns and neutral loss patterns, to score the proximity between features and suspects, thus efficiently prioritizing compounds of interest.
 
-> ### ➤&nbsp;&nbsp;QA/QC generator process:
+> ### ➤&nbsp;&nbsp;QA/QC generator module:
 > This tool evaluates the completeness and robustness of MS1 HRMS data preprocessing.
 > It produces harmonized PARC QA/QC preprocessing outputs and automatically generates a report based on the HBM4EU analytical QA/QC framework and additional project-specific criteria (for further details, please refer to: https://www.sciencedirect.com/science/article/abs/pii/S0165993624001560?via%3Dihub).
 
