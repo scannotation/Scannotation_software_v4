@@ -31,7 +31,7 @@ and launch in your web browser the file "QA-QC_generator-tutorial_player.html" p
 
 ## Publication
 For more information, you can read the [article](https://doi.org/10.1021/acs.est.3c04764) about Scannotation published in "Environmental Science & Technology".\
-The publications referencing Scannotation are available [on HAL](https://hal.science/search/index?q=scannotation).
+Scientific publications and conference presentations citing Scannotation are listed on [on HAL](https://hal.science/search/index?q=scannotation).
 
 ## Teaser
 A video introducing Scannotation is available [here](https://www.ehesp.fr/en/2023/11/30/chemical-exposome-ehesp-school-of-public-health-develops-and-releases-the-scannotation-open-access-software/).
