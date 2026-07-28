@@ -1,6 +1,7 @@
-![Scannotation](Scannotation-logo.jpg)\
+![Scannotation](images/Scannotation-logo.jpg)\
 Scannotation is an automated and user-friendly suspect screening tool for the rapid pre-annotation of LC-HRMS datasets.\
-This software is organized around three main modules: Library, Screening and QA/QC generator.
+This software is organized around three main modules: **Library**, **Screening** and **QA/QC generator**.
+
 > ### ➤&nbsp;&nbsp;Library and Screening modules:
 > These modules combine several MS1 chemical predictors: m/z, retention times, isotopic patterns and neutral loss patterns, to score the proximity between features and suspects, thus efficiently prioritizing compounds of interest.
 
@@ -8,8 +9,9 @@ This software is organized around three main modules: Library, Screening and QA/
 > This tool evaluates the completeness and robustness of MS1 HRMS data preprocessing.
 > It produces harmonized PARC QA/QC preprocessing outputs and automatically generates a report based on the HBM4EU analytical QA/QC framework and additional project-specific criteria (for further details, please refer to: https://www.sciencedirect.com/science/article/abs/pii/S0165993624001560?via%3Dihub).
 
-## Development
-Scannotation was developed in Python 3.9 on Windows 11.
+## Installation
+Download the latest stable release from the GitHub **Releases** page:
+https://github.com/scannotation/Scannotation_software_v4/releases/latest
 
 ## Workflow description
 For an overview of the complete Scannotation workflow, please download the file ["Scannotation_v4-workflow_description.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/Scannotation_v4-workflow_description.zip) and launch in your web browser the file "Scannotation_v4-workflow_description_player.html" present in the zip file.
@@ -23,11 +25,14 @@ For more information about **QA/QC generator**, you can view the video tutorial:
 * either [on YouTube](https://youtu.be/hOU8aIx0kSQ) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
-![tutorial_summary](QA-QC_generator-tutorial_homepage.png)
+![tutorial_summary](images/QA-QC_generator-tutorial_homepage.png)
 \
 \
 &#x27AA; Please download the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip)
 and launch in your web browser the file "QA-QC_generator-tutorial_player.html" present in the zip file.
+
+## Development
+Scannotation was developed in Python 3.9 on Windows 11.
 
 ## Publication
 For more information, you can read the [article](https://doi.org/10.1021/acs.est.3c04764) about Scannotation published in "Environmental Science & Technology".\
