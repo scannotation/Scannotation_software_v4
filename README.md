@@ -31,15 +31,15 @@ For more information about **QA/QC generator**, you can view the video tutorial:
 &#x27AA; Please download the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip)
 and launch in your web browser the file "QA-QC_generator-tutorial_player.html" present in the zip file.
 
-## Development
-Scannotation was developed in Python 3.9 on Windows 11.
-
 ## Publication
 For more information, you can read the [article](https://doi.org/10.1021/acs.est.3c04764) about Scannotation published in "Environmental Science & Technology".\
 Scientific publications and conference presentations citing Scannotation are listed on [on HAL](https://hal.science/search/index?q=scannotation).
 
 ## Teaser
 A video introducing Scannotation is available [here](https://www.ehesp.fr/en/2023/11/30/chemical-exposome-ehesp-school-of-public-health-develops-and-releases-the-scannotation-open-access-software/).
+
+## Technical information
+Scannotation was developed in Python 3.9 on Windows 11.
 
 ## Help and Technical support
 If you have any questions, please contact the developers at this address: scannotation@ehesp.fr or post your issue on this GitHub repository based on the file ["Issue_template.md"](Issue_template.md).
