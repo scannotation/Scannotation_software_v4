@@ -1,3 +1,8 @@
+# Python development requirements used to build the Scannotation executable.
+# This file is provided for documentation purposes only.
+# The Scannotation source code is not publicly available yet.
+# The software is distributed as a compiled executable.
+
 altgraph==0.17.4
 auto-py-to-exe==2.50.0
 bottle==0.13.1
