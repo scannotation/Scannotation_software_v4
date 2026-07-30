@@ -13,19 +13,34 @@ This software is organized around three main modules: **Library**, **Screening**
 Download the latest stable release from the GitHub **Releases** page:
 https://github.com/scannotation/Scannotation_software_v4/releases/latest
 
-## Workflow description
-For an overview of the complete Scannotation workflow, please download the file ["Scannotation_v4-workflow_description.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/Scannotation_v4-workflow_description.zip) and launch in your web browser the file "Scannotation_v4-workflow_description_player.html" present in the zip file.
+## Workflow presentation
+To get an overview of the complete Scannotation workflow, you can view the workflow presentation video:
+* either [on YouTube](https://youtu.be/T5D7nCDDZIo) directly
+* or if you want to browse the video using the table of contents (recommended):\
+\
+![workflow_summary](images/Scannotation_v4-workflow_homepage.png)
+\
+\
+&#x27AA; Please download the file ["video_resources/Scannotation_v4-workflow_presentation.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/video_resources/Scannotation_v4-workflow_presentation.zip) and launch in your web browser the file "Scannotation_v4-workflow_presentation_player.html" present in the zip file.
 
 ## Tutorials
-To get started with **Scannotation**, you can view the video tutorial: please download the file ["Scannotation_v4-tutorial.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/Scannotation_v4-tutorial.zip) and launch in your web browser the file "Scannotation_v4-tutorial_player.html" present in the zip file.
+To get started with **Scannotation**, you can view the complete workflow tutorial video:
+* either [on YouTube](https://youtu.be/szP7Rn31GfU) directly
+* or if you want to browse the video using the table of contents (recommended):\
+\
+![tutorial_scan_summary](images/Scannotation_v4-tutorial_homepage.png)
+\
+\
+&#x27AA; Please download the file ["video_resources/Scannotation_v4-tutorial.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/video_resources/Scannotation_v4-tutorial.zip) and launch in your web browser the file "Scannotation_v4-tutorial_player.html" present in the zip file.
 
 You may also refer to this [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation-tutorial.docx). It was created for previous Scannotation v3 release, but the main usage remains the same for the current version (which includes additional new features).
 
-For more information about **QA/QC generator**, you can view the video tutorial:
+---
+For more information about the **QA/QC generator** module, you can view the video tutorial:
 * either [on YouTube](https://youtu.be/hOU8aIx0kSQ) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
-![tutorial_summary](images/QA-QC_generator-tutorial_homepage.png)
+![tutorial_qaqc_summary](images/QA-QC_generator-tutorial_homepage.png)
 \
 \
 &#x27AA; Please download the file ["QA-QC_generator-tutorial.zip"](https://github.com/scannotation/QA-QC_generator_software/blob/main/QA-QC_generator-tutorial.zip)
