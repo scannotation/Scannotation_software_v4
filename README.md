@@ -24,6 +24,7 @@ To get an overview of the complete Scannotation workflow, you can view the workf
 &#x27AA; Please download the file ["video_resources/Scannotation_v4-workflow_presentation.zip"](https://github.com/scannotation/Scannotation_software_v4/blob/main/video_resources/Scannotation_v4-workflow_presentation.zip) and launch in your web browser the file "Scannotation_v4-workflow_presentation_player.html" present in the zip file.
 
 ## Tutorials
+### ➤&nbsp;&nbsp;Complete workflow
 To get started with **Scannotation**, you can view the complete workflow tutorial video:
 * either [on YouTube](https://youtu.be/szP7Rn31GfU) directly
 * or if you want to browse the video using the table of contents (recommended):\
@@ -36,7 +37,8 @@ To get started with **Scannotation**, you can view the complete workflow tutoria
 You may also refer to this [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation-tutorial.docx). It was created for previous Scannotation v3 release, but the main usage remains the same for the current version (which includes additional new features).
 
 ---
-For more information about the **QA/QC generator** module, you can view the video tutorial:
+### ➤&nbsp;&nbsp;QA/QC generator (Scannotation module)
+For more information about the **QA/QC generator** module specifically, you can view the video tutorial:
 * either [on YouTube](https://youtu.be/hOU8aIx0kSQ) directly
 * or if you want to browse the video using the table of contents (recommended):\
 \
