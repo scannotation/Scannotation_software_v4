@@ -13,6 +13,14 @@ This software is organized around three main modules: **Library**, **Screening**
 Download the latest stable release from the GitHub **Releases** page:
 https://github.com/scannotation/Scannotation_software_v4/releases/latest
 
+## Preprocessed libraries
+
+A preprocessed SQLite database containing **65,914 compounds** from the HBM4EU CECscreen library (v3.1) is available in the [`databases`](databases) folder.
+
+The original library has been checked, cleaned and curated using [Chemining](https://github.com/scannotation/Chemining_software), an in-house software developed by our team, and further processed using Scannotation's **Library** module. It includes calculated m/z values and isotopic ratios, as well as LogP values.
+
+The database can be directly imported into Scannotation via the **Library** module using the *Import a library* button. Users can then add their experimental retention times (Rt_exp) for compounds analysed using their own chromatographic method, by clicking the *Update Rts in the library* button. These experimental values, combined with the available LogP values, allow Scannotation to predict method-specific Rt_LogP values for the vast majority of the 65,914 compounds, extending retention time information to compounds not experimentally analysed.
+
 ## Workflow presentation
 To get an overview of the complete Scannotation workflow, you can view the workflow presentation video:
 * either [on YouTube](https://youtu.be/T5D7nCDDZIo) directly
